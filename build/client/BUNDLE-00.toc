@@ -1,0 +1,3 @@
+([('client',
+   '/Users/MacBookPRO/PycharmProjects/HackingTest/dist/client',
+   'EXECUTABLE')],)
